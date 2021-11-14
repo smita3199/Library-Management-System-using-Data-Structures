@@ -4,7 +4,4 @@ Library management system is a simple console application using linked list in C
 
 Each book in the library has a unique identification number. The user issues the book by entering the book ID and the user details. Each user can issue only one book at a time. When the user returns the issued book, the book is available in the library for issuing again. The record of the issued book with user details can also be viewed.
 
-&nbsp;
-
-![l2](https://user-images.githubusercontent.com/76877184/103481188-42f0ab00-4dff-11eb-82bc-736b4325f411.PNG)
 
